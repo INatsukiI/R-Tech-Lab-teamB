@@ -1,5 +1,7 @@
 hackathon-chatapp
 ====
+## サービス概要(プレゼン資料)
+https://drive.google.com/file/d/1LStuWkntJfUGn2tB0UHf2fHBCKl0vMGu/view?usp=sharing
 
 チャットアプリのソースコード
 
